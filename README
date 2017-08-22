@@ -1,0 +1,10 @@
+This project contains the generated XDR from RFC7863.
+
+It also contains the preliminary XDR for:
+ draft-ietf-nfsv4-umask-04
+ draft-ietf-nfsv4-xattrs-06 
+
+As those documents finalize, this xdr will be updated.
+
+You can generate code via whatever version of rpcgen you use
+for your language.
